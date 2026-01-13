@@ -1,3 +1,7 @@
-I am creating a recipe search engine app. Here you can find a recipe searching by meal name. For example, pasta, pizza, fish. 
-This will help you making food by yourself with this cool app. 
-Take a look at my project here: https://letuscook-engine.netlify.app/
+Laget en oppskriftsgenerator som gir deg inpirasjon til middagsbordet. Her kan du finne oppskrifter til ulike retter som pizza, pasta, fisk, suppe osv.  
+
+Teknologier brukt:
+
+Javascript, HTML 5, taliwind/CSS
+
+Live demo: https://letuscook-engine.netlify.app/
